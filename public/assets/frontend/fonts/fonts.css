@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'roboto_slabbold';
+    src: url('robotoslab-bold.woff2') format('woff2'),
+         url('robotoslab-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'roboto_slablight';
+    src: url('robotoslab-light.woff2') format('woff2'),
+         url('robotoslab-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'roboto_slabregular';
+    src: url('robotoslab-regular.woff2') format('woff2'),
+         url('robotoslab-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'work_sansbold';
+    src: url('worksans-bold.woff2') format('woff2'),
+         url('worksans-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'work_sanslight';
+    src: url('worksans-light.woff2') format('woff2'),
+         url('worksans-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'work_sansmedium';
+    src: url('worksans-medium.woff2') format('woff2'),
+         url('worksans-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'work_sansregular';
+    src: url('worksans-regular.woff2') format('woff2'),
+         url('worksans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'work_sanssemibold';
+    src: url('worksans-semibold.woff2') format('woff2'),
+         url('worksans-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'work_sansthin';
+    src: url('worksans-thin.woff2') format('woff2'),
+         url('worksans-thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

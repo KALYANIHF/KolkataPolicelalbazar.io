@@ -1,0 +1,23 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner {
+  background: url("../img/contact.jpg");
+  height: 600px;
+  width: 100%;
+  border: 1px solid #000;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.banner h1 {
+  padding-left: 5rem;
+  color: red;
+  font-size: 10rem;
+}
+.square {
+  height: 500px;
+  width: 500px;
+}

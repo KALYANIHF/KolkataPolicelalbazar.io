@@ -1,0 +1,115 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#showcase {
+  height: 510px;
+  background-image: url("../img/au.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#showcase h1 {
+  padding-top: 3rem;
+  color: white;
+  font-family: "Lucida Console", Monaco, monospace;
+  margin-left: 5rem;
+  font-size: 4rem;
+}
+#showcase2 {
+  height: 670px;
+}
+#showcase2 h2 {
+  color: red;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-left: 5rem;
+  padding-top: 4rem;
+}
+.article {
+  margin-left: 30%;
+  margin-top: 5%;
+  font-size: 18px;
+  color: black;
+}
+.showcase3 {
+  height: 500px;
+  background: url(../img/b1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2%;
+}
+#showcase4 {
+  height: 400px;
+  padding: 1rem;
+}
+#showcase4 .vis {
+  height: 200px;
+  width: 400px;
+  border-top: 2px solid #000;
+  border-right: 2px solid #000;
+  float: right;
+}
+.vis h2 {
+  margin-left: 5px;
+}
+.vis p {
+  margin-left: 10px;
+  font-size: 17px;
+  color: #000;
+}
+#showcase4 .mis {
+  height: 200px;
+  width: 400px;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
+  margin-top: 5%;
+}
+.mis h2 {
+  margin-left: 5px;
+}
+.mis p {
+  margin-left: 10px;
+  font-size: 17px;
+  color: #000;
+}
+#showcase5 {
+  height: 400px;
+  background-color: lightgrey;
+}
+#showcase5 h1 {
+  color: black;
+  /* margin-bottom: 8px; */
+  display: inline-block;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-left: 1rem;
+  font-size: 24px;
+}
+#showcase5 .square {
+  height: 300px;
+  width: 280px;
+  border: 2px solid black;
+  margin-left: 65rem;
+  background-image: url("../img/hm.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#showcase5 .rectangle {
+  margin-top: -19rem;
+  height: 350px;
+  width: 800px;
+  background-color: lightgray;
+}
+.rectangle h2 {
+  padding-top: 2rem;
+  padding-left: 18px;
+  font-size: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: initial;
+  color: rgb(63, 9, 18);
+}
